@@ -1,3 +1,4 @@
+<img width="1919" height="1013" alt="Screenshot 2026-04-09 124837" src="https://github.com/user-attachments/assets/86057a91-a746-4dfc-a1de-cd2afa0f4ed0" />
 # Networking-Labs
 Hands-on networking labs and simulations using Cisco Packet Tracer. Focused on IPv4 subnetting, routing, and network service configuration for CompTIA Network+ preparation.
 # IT Networking Portfolio: Packet Tracer Labs
